@@ -13,7 +13,7 @@
 </p>
 
 
-## 📚 Learning Plan
+## 📚 2021 Learning Plan
 
 RxJava, Coroutine, MVVM
 
