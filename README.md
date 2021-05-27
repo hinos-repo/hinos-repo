@@ -3,7 +3,7 @@
 모바일에 분야에 관심이 많은 🐥 개발자입니다.
 
 
-## 📚 Language
+## ▶️ Language
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -13,7 +13,7 @@
 </p>
 
 
-## ↗️ Learning Plan
+## 📚 Learning Plan
 
 RxJava, Coroutine, MVVM
 
