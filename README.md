@@ -1,6 +1,6 @@
 
 ## 😆 Android Developer KIM YOON KYU
-모바일에 분야에 관심이 많은 🐥 개발자입니다.
+모바일에 관심이 많은 🐥 개발자입니다.
 
 
 ## ▶️ Language
