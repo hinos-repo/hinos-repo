@@ -15,6 +15,6 @@
 
 ## 📚 2021 Learning Plan
 
-RxJava, Coroutine, MVVM
+RxJava, Coroutine, MVVM, Algorithm
 
 
