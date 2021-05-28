@@ -1,7 +1,6 @@
 
-## 😆 Android Developer KIM YOON KYU
+## Android Developer KIM YOON KYU
 모바일에 관심이 많은 🐥 개발자입니다.
-
 
 ## ▶️ Language
 
@@ -12,9 +11,12 @@
   <img src="https://img.shields.io/badge/PHP-ffb13b?style=flat-square&logo=PHP&logoColor=white"/></a>
 </p>
 
-
 ## 📚 2021 Learning Plan
 
 RxJava, Coroutine, MVVM, Algorithm
+
+## 🏳️‍🌈 Github Stats
+
+![Github README Stats](https://github-readme-stats.vercel.app/api?username=hinos-repo&show_icons=true&theme=dracula)
 
 
